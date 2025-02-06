@@ -21,15 +21,12 @@
    В проекте используются библиотеки `aiohttp`, `fake-useragent`, `pytz`, `colorama` и т.п.
 
 ---
-## Установка
+## Запуск
 
-1. **Склонировать или скачать репозиторий**:
-   ```bash
-   git clone https://github.com/k2wGG/Check-bot.git
-2. **Переходим в папку**:
-    ```bash
-    cd Check-bot
-    ```
-3. **Устанавливаем зависимости**:
-   ```bash
-   pip install --upgrade aiohttp fake-useragent colorama pytz
+```bash
+python3 Functor.py
+```
+```bash
+python Functor.py
+```
+
